@@ -1,0 +1,12 @@
+title: Angular Theme
+remote_theme: PhearZero/jekyll-material-github-theme
+branch: main
+include:
+  - _wiki
+  - LICENSE.md
+exclude:
+  - .idea/
+  - package.json
+  - LICENSE
+  - Gemfile
+  - jekyll-material-github-theme.gemspec
